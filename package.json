@@ -1,0 +1,12 @@
+{
+  "name": "meta-threads-profile-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A runnable scraper framework for Threads profile extraction.",
+  "main": "src/runner.js",
+  "scripts": {
+    "start": "node src/runner.js",
+    "test": "node tests/test.js"
+  },
+  "dependencies": {}
+}
